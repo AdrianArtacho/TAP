@@ -1,3 +1,6 @@
 [submodule "tap-results"]
 	path = tap-results
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/tap-results.git
+[submodule "JSON-Format"]
+	path = JSON-Format
+	url = https://AdrianArtacho@bitbucket.org/smoothspaces/segmjson.git
