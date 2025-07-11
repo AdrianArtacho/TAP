@@ -4,3 +4,6 @@
 [submodule "JSON-Format"]
 	path = JSON-Format
 	url = https://AdrianArtacho@bitbucket.org/smoothspaces/segmjson.git
+[submodule "SmoothOperator"]
+	path = SmoothOperator
+	url = https://AdrianArtacho@bitbucket.org/smoothspaces/smoothoperator.git
