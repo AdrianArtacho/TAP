@@ -1,2 +1,2 @@
 # The Augmented Performer
-An ecological approach to gesture segmentation in choreomusical research
+An ecological approach to temporal segmentation in choreomusical research
